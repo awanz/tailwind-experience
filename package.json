@@ -1,0 +1,13 @@
+{
+  "name": "tailwindcss-experiment",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "awan",
+  "license": "MIT",
+  "scripts": {
+    "server": "node --watch ./server.js"
+  },
+  "dependencies": {
+    "tailwindcss": "^3.4.4"
+  }
+}
